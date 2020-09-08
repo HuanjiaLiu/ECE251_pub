@@ -1,0 +1,89 @@
+CMake Deprecation Warning at CMakeLists.txt:398 (cmake_policy):
+  The OLD behavior for policy CMP0026 will be removed from a future version
+  of CMake.
+
+  The cmake-policies(7) manual explains that the OLD behaviors of all
+  policies are deprecated and that a policy should be set to OLD only under
+  specific short-term circumstances.  Projects should be ported to the NEW
+  behavior and not rely on setting a policy to OLD.
+
+
+CMake Warning (dev) at CMakeLists.txt:399 (get_target_property):
+  Policy CMP0045 is not set: Error on non-existent target in
+  get_target_property.  Run "cmake --help-policy CMP0045" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  get_target_property() called with non-existent target "optixHello".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning at CMakeLists.txt:423 (message):
+  Unable to find location to copy DLLs into the build
+
+
+CMake Deprecation Warning at CMakeLists.txt:398 (cmake_policy):
+  The OLD behavior for policy CMP0026 will be removed from a future version
+  of CMake.
+
+  The cmake-policies(7) manual explains that the OLD behaviors of all
+  policies are deprecated and that a policy should be set to OLD only under
+  specific short-term circumstances.  Projects should be ported to the NEW
+  behavior and not rely on setting a policy to OLD.
+
+
+CMake Warning (dev) at CMakeLists.txt:399 (get_target_property):
+  Policy CMP0045 is not set: Error on non-existent target in
+  get_target_property.  Run "cmake --help-policy CMP0045" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  get_target_property() called with non-existent target "optixHello".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning at CMakeLists.txt:423 (message):
+  Unable to find location to copy DLLs into the build
+
+
+CMake Deprecation Warning at CMakeLists.txt:398 (cmake_policy):
+  The OLD behavior for policy CMP0026 will be removed from a future version
+  of CMake.
+
+  The cmake-policies(7) manual explains that the OLD behaviors of all
+  policies are deprecated and that a policy should be set to OLD only under
+  specific short-term circumstances.  Projects should be ported to the NEW
+  behavior and not rely on setting a policy to OLD.
+
+
+CMake Warning (dev) at CMakeLists.txt:399 (get_target_property):
+  Policy CMP0045 is not set: Error on non-existent target in
+  get_target_property.  Run "cmake --help-policy CMP0045" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  get_target_property() called with non-existent target "optixHello".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning at CMakeLists.txt:423 (message):
+  Unable to find location to copy DLLs into the build
+
+
+CMake Deprecation Warning at CMakeLists.txt:398 (cmake_policy):
+  The OLD behavior for policy CMP0026 will be removed from a future version
+  of CMake.
+
+  The cmake-policies(7) manual explains that the OLD behaviors of all
+  policies are deprecated and that a policy should be set to OLD only under
+  specific short-term circumstances.  Projects should be ported to the NEW
+  behavior and not rely on setting a policy to OLD.
+
+
+CMake Warning (dev) at CMakeLists.txt:399 (get_target_property):
+  Policy CMP0045 is not set: Error on non-existent target in
+  get_target_property.  Run "cmake --help-policy CMP0045" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  get_target_property() called with non-existent target "optixHello".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning at CMakeLists.txt:423 (message):
+  Unable to find location to copy DLLs into the build
+  
+Configuring done
+Generating done
